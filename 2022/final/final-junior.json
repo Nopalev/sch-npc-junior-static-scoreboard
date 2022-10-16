@@ -1,0 +1,599 @@
+{
+    "data": {
+        "type": "OFFICIAL",
+        "style": "IOI",
+        "totalEntries": 23,
+        "updatedTime": 1665892825799,
+        "scoreboard": {
+            "content": {
+                "entries": [
+                    {
+                        "contestantUsername": "Vannes Wijaya",
+                        "contestantRating": 0,
+                        "totalScores": 627,
+                        "lastAffectingPenalty": 10552104,
+                        "scores": [
+                            75,
+                            100,
+                            52,
+                            100,
+                            100,
+                            null,
+                            100,
+                            0,
+                            100
+                        ],
+                        "rank": 1,
+                        "contestantJid": "JIDUSERkiEGhOAq9O5JI4CX8QrJ"
+                    },
+                    {
+                        "contestantUsername": "Kelven Nathanael",
+                        "contestantRating": 0,
+                        "totalScores": 594,
+                        "lastAffectingPenalty": 10395380,
+                        "scores": [
+                            94,
+                            100,
+                            null,
+                            100,
+                            100,
+                            null,
+                            100,
+                            0,
+                            100
+                        ],
+                        "rank": 2,
+                        "contestantJid": "JIDUSERy86zgA1wVsw70DvX0ogU"
+                    },
+                    {
+                        "contestantUsername": "Roberto Eugenio Sugiarto",
+                        "contestantRating": 0,
+                        "totalScores": 564,
+                        "lastAffectingPenalty": 8763458,
+                        "scores": [
+                            null,
+                            100,
+                            64,
+                            100,
+                            100,
+                            null,
+                            100,
+                            null,
+                            100
+                        ],
+                        "rank": 3,
+                        "contestantJid": "JIDUSERLaqF8adc7wZjPUXYGbQ1"
+                    },
+                    {
+                        "contestantUsername": "Albert Ariel Putra",
+                        "contestantRating": 0,
+                        "totalScores": 564,
+                        "lastAffectingPenalty": 9414824,
+                        "scores": [
+                            null,
+                            100,
+                            64,
+                            100,
+                            100,
+                            null,
+                            100,
+                            null,
+                            100
+                        ],
+                        "rank": 4,
+                        "contestantJid": "JIDUSERwZIM4iPFLQoVtYpjSfMm"
+                    },
+                    {
+                        "contestantUsername": "Gustav Ian Setiabudi",
+                        "contestantRating": 0,
+                        "totalScores": 564,
+                        "lastAffectingPenalty": 10116015,
+                        "scores": [
+                            null,
+                            100,
+                            64,
+                            100,
+                            100,
+                            null,
+                            100,
+                            null,
+                            100
+                        ],
+                        "rank": 5,
+                        "contestantJid": "JIDUSERARskhuXEJKpNxkBuBAKJ"
+                    },
+                    {
+                        "contestantUsername": "Galih Nur Rizqy",
+                        "contestantRating": 0,
+                        "totalScores": 505,
+                        "lastAffectingPenalty": 8896245,
+                        "scores": [
+                            75,
+                            100,
+                            19,
+                            100,
+                            100,
+                            0,
+                            11,
+                            null,
+                            100
+                        ],
+                        "rank": 6,
+                        "contestantJid": "JIDUSERzknVI1k5WS1F9c5SKOGI"
+                    },
+                    {
+                        "contestantUsername": "Joel Gunawan",
+                        "contestantRating": 0,
+                        "totalScores": 500,
+                        "lastAffectingPenalty": 9868327,
+                        "scores": [
+                            null,
+                            100,
+                            null,
+                            100,
+                            100,
+                            null,
+                            100,
+                            null,
+                            100
+                        ],
+                        "rank": 7,
+                        "contestantJid": "JIDUSERo8MXQ8cqaLGC0BG4RhKm"
+                    },
+                    {
+                        "contestantUsername": "Benedict Presley",
+                        "contestantRating": 0,
+                        "totalScores": 500,
+                        "lastAffectingPenalty": 10635635,
+                        "scores": [
+                            null,
+                            100,
+                            null,
+                            100,
+                            100,
+                            null,
+                            100,
+                            null,
+                            100
+                        ],
+                        "rank": 8,
+                        "contestantJid": "JIDUSERi3m9E4P3E1y20RZjchcU"
+                    },
+                    {
+                        "contestantUsername": "Danar Abiyoga Prakosa",
+                        "contestantRating": 0,
+                        "totalScores": 475,
+                        "lastAffectingPenalty": 9364161,
+                        "scores": [
+                            null,
+                            100,
+                            64,
+                            100,
+                            100,
+                            null,
+                            11,
+                            null,
+                            100
+                        ],
+                        "rank": 9,
+                        "contestantJid": "JIDUSERIE63zYsgUR4pNudTlMjs"
+                    },
+                    {
+                        "contestantUsername": "Kenneth Feivel Johannsen Hosannah",
+                        "contestantRating": 0,
+                        "totalScores": 456,
+                        "lastAffectingPenalty": 10050742,
+                        "scores": [
+                            null,
+                            100,
+                            100,
+                            100,
+                            22,
+                            null,
+                            34,
+                            null,
+                            100
+                        ],
+                        "rank": 10,
+                        "contestantJid": "JIDUSERhpKi0jcchPgzqzSDreoI"
+                    },
+                    {
+                        "contestantUsername": "Audra Aurora Izzani",
+                        "contestantRating": 0,
+                        "totalScores": 453,
+                        "lastAffectingPenalty": 9482054,
+                        "scores": [
+                            null,
+                            100,
+                            19,
+                            100,
+                            null,
+                            100,
+                            34,
+                            null,
+                            100
+                        ],
+                        "rank": 11,
+                        "contestantJid": "JIDUSERGbX6CV8Gdj1rtQqUOOpR"
+                    },
+                    {
+                        "contestantUsername": "Joceline Araki",
+                        "contestantRating": 0,
+                        "totalScores": 389,
+                        "lastAffectingPenalty": 10573209,
+                        "scores": [
+                            null,
+                            25,
+                            64,
+                            100,
+                            100,
+                            null,
+                            null,
+                            null,
+                            100
+                        ],
+                        "rank": 12,
+                        "contestantJid": "JIDUSERxfDxKTAdWyYgdy4xf1zB"
+                    },
+                    {
+                        "contestantUsername": "AZKA RIZQULLAH RAMADHANI",
+                        "contestantRating": 0,
+                        "totalScores": 380,
+                        "lastAffectingPenalty": 10277268,
+                        "scores": [
+                            69,
+                            100,
+                            null,
+                            100,
+                            null,
+                            null,
+                            11,
+                            null,
+                            100
+                        ],
+                        "rank": 13,
+                        "contestantJid": "JIDUSERwXxyXIP4uaJfE6J5DlSS"
+                    },
+                    {
+                        "contestantUsername": "Yomori Achiza",
+                        "contestantRating": 0,
+                        "totalScores": 367,
+                        "lastAffectingPenalty": 9743390,
+                        "scores": [
+                            null,
+                            100,
+                            null,
+                            100,
+                            33,
+                            null,
+                            34,
+                            0,
+                            100
+                        ],
+                        "rank": 14,
+                        "contestantJid": "JIDUSER3AXMRUJEVvAfHcJrIzFW"
+                    },
+                    {
+                        "contestantUsername": "Anders Willard Leo",
+                        "contestantRating": 0,
+                        "totalScores": 265,
+                        "lastAffectingPenalty": 10412710,
+                        "scores": [
+                            null,
+                            25,
+                            6,
+                            100,
+                            null,
+                            null,
+                            34,
+                            null,
+                            100
+                        ],
+                        "rank": 15,
+                        "contestantJid": "JIDUSERKpGkNvfuAscUDNiciBhl"
+                    },
+                    {
+                        "contestantUsername": "Muhammad Aqila",
+                        "contestantRating": 0,
+                        "totalScores": 211,
+                        "lastAffectingPenalty": 9337204,
+                        "scores": [
+                            null,
+                            100,
+                            0,
+                            100,
+                            0,
+                            null,
+                            11,
+                            null,
+                            0
+                        ],
+                        "rank": 16,
+                        "contestantJid": "JIDUSERzRQsKSoblfhuUYYAPWQN"
+                    },
+                    {
+                        "contestantUsername": "Salvatore Unedo",
+                        "contestantRating": 0,
+                        "totalScores": 211,
+                        "lastAffectingPenalty": 10640673,
+                        "scores": [
+                            null,
+                            100,
+                            null,
+                            null,
+                            0,
+                            null,
+                            11,
+                            null,
+                            100
+                        ],
+                        "rank": 17,
+                        "contestantJid": "JIDUSERVg8mnWb1gKxjL4WRhUBH"
+                    },
+                    {
+                        "contestantUsername": "Muhammad Naufal Muzaki",
+                        "contestantRating": 0,
+                        "totalScores": 164,
+                        "lastAffectingPenalty": 10232093,
+                        "scores": [
+                            null,
+                            64,
+                            null,
+                            null,
+                            null,
+                            null,
+                            null,
+                            null,
+                            100
+                        ],
+                        "rank": 18,
+                        "contestantJid": "JIDUSER9yYFLrZlbhtFIVjrAJYg"
+                    },
+                    {
+                        "contestantUsername": "Yose Yehezkiel Maranata",
+                        "contestantRating": 0,
+                        "totalScores": 137,
+                        "lastAffectingPenalty": 8132025,
+                        "scores": [
+                            null,
+                            37,
+                            null,
+                            null,
+                            null,
+                            null,
+                            null,
+                            null,
+                            100
+                        ],
+                        "rank": 19,
+                        "contestantJid": "JIDUSERPpjoWKnkwvaiP9AhwEsP"
+                    },
+                    {
+                        "contestantUsername": "Ahmad Wasis Shofiyulloh",
+                        "contestantRating": 0,
+                        "totalScores": 50,
+                        "lastAffectingPenalty": 6643525,
+                        "scores": [
+                            null,
+                            null,
+                            null,
+                            50,
+                            null,
+                            null,
+                            0,
+                            null,
+                            null
+                        ],
+                        "rank": 20,
+                        "contestantJid": "JIDUSERUuOijC5IHWn5pV0ujWId"
+                    },
+                    {
+                        "contestantUsername": "Andreas Timothy",
+                        "contestantRating": 0,
+                        "totalScores": 0,
+                        "lastAffectingPenalty": 0,
+                        "scores": [
+                            null,
+                            null,
+                            null,
+                            null,
+                            null,
+                            null,
+                            null,
+                            null,
+                            null
+                        ],
+                        "rank": 21,
+                        "contestantJid": "JIDUSERkEWIcQQ8WZOcIykv9gbD"
+                    },
+                    {
+                        "contestantUsername": "Gabriella",
+                        "contestantRating": 0,
+                        "totalScores": 0,
+                        "lastAffectingPenalty": 0,
+                        "scores": [
+                            null,
+                            null,
+                            null,
+                            null,
+                            null,
+                            null,
+                            null,
+                            null,
+                            null
+                        ],
+                        "rank": 21,
+                        "contestantJid": "JIDUSERzG6pJCKCo2GmphdEkiXZ"
+                    },
+                    {
+                        "contestantUsername": "Nathan Keith Poernama",
+                        "contestantRating": 0,
+                        "totalScores": 0,
+                        "lastAffectingPenalty": 0,
+                        "scores": [
+                            null,
+                            null,
+                            null,
+                            null,
+                            null,
+                            null,
+                            null,
+                            null,
+                            null
+                        ],
+                        "rank": 21,
+                        "contestantJid": "JIDUSERFhHG5ncVYqq3fdgUxMRY"
+                    }
+                ]
+            },
+            "state": {
+                "problemJids": [
+                    "JIDPROG2raMKdB0teIUT5uOLthh",
+                    "JIDPROGu88D8IyEMMVAsTdpvzRO",
+                    "JIDPROGtIIod9ugUkUyRAfApX4E",
+                    "JIDPROGNI6AgpBQH1daavWsZoT6",
+                    "JIDPROGcUqhlnAlVKZ19mpWTn6I",
+                    "JIDPROGcOHtCWhC7vznTYRsVZo1",
+                    "JIDPROGdPWDbtoHPgUhX40CAYAv",
+                    "JIDPROGzmeAnTFeq8xQ7gENz68A",
+                    "JIDPROG6iC9Xyv9Aw81v1Al2Tzd"
+                ],
+                "problemAliases": [
+                    "A",
+                    "B",
+                    "C",
+                    "D",
+                    "E",
+                    "F",
+                    "G",
+                    "H",
+                    "I"
+                ],
+                "problemPoints": null
+            }
+        }
+    },
+    "profilesMap": {
+        "JIDUSER9yYFLrZlbhtFIVjrAJYg": {
+            "username": "Muhammad Naufal Muzaki",
+            "country": "ID",
+            "rating": null
+        },
+        "JIDUSERARskhuXEJKpNxkBuBAKJ": {
+            "username": "Gustav Ian Setiabudi",
+            "country": "ID",
+            "rating": null
+        },
+        "JIDUSERIE63zYsgUR4pNudTlMjs": {
+            "username": "Danar Abiyoga Prakosa",
+            "country": "ID",
+            "rating": null
+        },
+        "JIDUSERo8MXQ8cqaLGC0BG4RhKm": {
+            "username": "Joel Gunawan",
+            "country": "ID",
+            "rating": null
+        },
+        "JIDUSERzknVI1k5WS1F9c5SKOGI": {
+            "username": "Galih Nur Rizqy",
+            "country": "ID",
+            "rating": null
+        },
+        "JIDUSERhpKi0jcchPgzqzSDreoI": {
+            "username": "Kenneth Feivel Johannsen Hosannah",
+            "country": "ID",
+            "rating": null
+        },
+        "JIDUSERGbX6CV8Gdj1rtQqUOOpR": {
+            "username": "Audra Aurora Izzani",
+            "country": "ID",
+            "rating": null
+        },
+        "JIDUSERkEWIcQQ8WZOcIykv9gbD": {
+            "username": "Andreas Timothy",
+            "country": "ID",
+            "rating": null
+        },
+        "JIDUSERzRQsKSoblfhuUYYAPWQN": {
+            "username": "Muhammad Aqila",
+            "country": "ID",
+            "rating": null
+        },
+        "JIDUSERFhHG5ncVYqq3fdgUxMRY": {
+            "username": "Nathan Keith Poernama",
+            "country": "ID",
+            "rating": null
+        },
+        "JIDUSERKpGkNvfuAscUDNiciBhl": {
+            "username": "Anders Willard Leo",
+            "country": "ID",
+            "rating": null
+        },
+        "JIDUSERwXxyXIP4uaJfE6J5DlSS": {
+            "username": "AZKA RIZQULLAH RAMADHANI",
+            "country": "ID",
+            "rating": null
+        },
+        "JIDUSERwZIM4iPFLQoVtYpjSfMm": {
+            "username": "Albert Ariel Putra",
+            "country": "ID",
+            "rating": null
+        },
+        "JIDUSERkiEGhOAq9O5JI4CX8QrJ": {
+            "username": "Vannes Wijaya",
+            "country": "ID",
+            "rating": null
+        },
+        "JIDUSERxfDxKTAdWyYgdy4xf1zB": {
+            "username": "Joceline Araki",
+            "country": "ID",
+            "rating": null
+        },
+        "JIDUSERUuOijC5IHWn5pV0ujWId": {
+            "username": "Ahmad Wasis Shofiyulloh",
+            "country": "ID",
+            "rating": null
+        },
+        "JIDUSER3AXMRUJEVvAfHcJrIzFW": {
+            "username": "Yomori Achiza",
+            "country": "ID",
+            "rating": null
+        },
+        "JIDUSERy86zgA1wVsw70DvX0ogU": {
+            "username": "Kelven Nathanael",
+            "country": "ID",
+            "rating": null
+        },
+        "JIDUSERLaqF8adc7wZjPUXYGbQ1": {
+            "username": "Roberto Eugenio Sugiarto",
+            "country": "ID",
+            "rating": null
+        },
+        "JIDUSERi3m9E4P3E1y20RZjchcU": {
+            "username": "Benedict Presley",
+            "country": "ID",
+            "rating": null
+        },
+        "JIDUSERzG6pJCKCo2GmphdEkiXZ": {
+            "username": "Gabriella",
+            "country": "ID",
+            "rating": null
+        },
+        "JIDUSERPpjoWKnkwvaiP9AhwEsP": {
+            "username": "Yose Yehezkiel Maranata",
+            "country": "ID",
+            "rating": null
+        },
+        "JIDUSERVg8mnWb1gKxjL4WRhUBH": {
+            "username": "Salvatore Unedo",
+            "country": "ID",
+            "rating": null
+        }
+    },
+    "config": {
+        "canViewOfficialAndFrozen": true,
+        "canViewClosedProblems": false,
+        "canRefresh": true,
+        "canViewSubmissions": false
+    }
+}
